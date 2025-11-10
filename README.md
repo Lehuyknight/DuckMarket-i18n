@@ -51,8 +51,7 @@ delist.success={0} x{1} の出品を取り消しました！ロッカーに送�
 1. **Fork this repository**
 2. **Clone to local**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/DuckMarket_Mod.git
-   cd DuckMarket_Mod/DuckMarket.Core/Localization
+   git clone https://github.com/DuckMarket-Dev/DuckMarket-i18n.git
    ```
 3. **Edit translation files**
    - Modify existing language files (e.g., `en-US.txt`)
@@ -71,7 +70,7 @@ delist.success={0} x{1} の出品を取り消しました！ロッカーに送�
 ### Method 2: Submit Issue
 
 If you're not familiar with Git:
-1. Go to [Issues page](https://github.com/YOUR_REPO/issues)
+1. Go to [Issues page](https://github.com/DuckMarket-Dev/DuckMarket-i18n/issues)
 2. Create new Issue, title format: `[Translation] Language Name`
 3. Paste your translation content in the Issue
 
@@ -122,9 +121,7 @@ Thanks to all translation contributors!
 ## 📧 Contact
 
 For any questions:
-- Submit [GitHub Issue](https://github.com/YOUR_REPO/issues)
-- Join Discord server: [Link]
-- Contact author: [Contact Info]
+- Submit [GitHub Issue](https://github.com/DuckMarket-Dev/DuckMarket-i18n/issues)
 
 ## 📄 License
 
